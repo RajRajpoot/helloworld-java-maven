@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>central</id>
+        <id>central123</id>
         <name>51708afbf5e2-releases</name>
         <url>http://13.127.67.19:8081/artifactory/Selva_test</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
+        <id>central123</id>
         <name>51708afbf5e2-snapshots</name>
         <url>http://13.127.67.19:8081/artifactory/Selva_test</url>
     </snapshotRepository>
